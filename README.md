@@ -26,8 +26,9 @@
 
 ### 📊 System Analytics
 <p align="center">
-  <img src="C++_logo.jpg" width="48%" />
-  <img src="Blender_logo.jpg" width="48%" />
+  <img src="C++_logo.jpg" width="10%" />
+  <img src="Blender_logo.jpg" width="10%" />
+  <img src="OpenGL_logo.jpg" width="10%" />
 </p>
 
 ---
