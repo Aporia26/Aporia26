@@ -1,22 +1,37 @@
 # 👋 Hi, I'm Abhineet Chakraborty!
 
-### 🚀 About Me
-- 🎓 **Current Status:** 18-year-old B.Tech-CSE (Semester 1) Student.
-- 💡 **My Journey:** Completely self-teaching myself core computer science and development skills outside of my college lectures.
-- 🎯 **Goal:** Documenting my "learning in public" journey and building real-world projects from scratch.
+<div align="center">
+  <img src="https://vercel.app" width="100%" />
+
+  <h3>🌌 Vibe Coder | B.Tech CSE (Sem 1)</h3>
+  <p>Building clean software, learning in the dark, and documenting the engineering journey.</p>
+
+  <p align="center">
+    <img src="https://shields.io" />
+    <img src="https://shields.io" />
+    <img src="https://shields.io" />
+  </p>
+</div>
 
 ---
 
-### 🛠️ What I am Learning & Building
-- **Languages:** `[e.g., Python / C++ / JavaScript]`
-- **Tools & Tech:** `[e.g., Git, VS Code]`
-- **Current Focus:** `[e.g., Mastering Data Structures / Web Development basics]`
+### 🔮 The Stack & Focus
+*   **Languages:** `Python` • `C++` • `JavaScript` *(Update these as you learn them)*
+*   **Environment:** `NeoVim / VS Code` • `Linux` • `Git`
+*   **Currently Obsessed With:** Mastering Core Data Structures & clean system architectures.
 
 ---
 
-### 📈 GitHub Stats
-![Abhineet's GitHub Stats](https://vercel.app)
-![Top Langs](https://vercel.app)
+### 📊 System Analytics
+<p align="center">
+  <img src="https://vercel.app" width="48%" />
+  <img src="https://vercel.app" width="48%" />
+</p>
 
 ---
-💬 Feel free to explore my repositories as I start uploading my code. Let's connect!
+
+<div align="center">
+  <p><i>"Turning caffeine into clean systems."</i></p>
+  <sub>Let's build the future. Connect via my socials once they drop.</sub>
+</div>
+
