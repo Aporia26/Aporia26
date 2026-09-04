@@ -26,10 +26,8 @@
 
 ### 📊 System Analytics
 <p align="center">
-  <img src="<img width="735" height="490" alt="C++_logo" src="https://github.com/user-attachments/assets/d043d54c-efd0-471e-9455-e8738af2afc8" />
-" width="48%" />
-  <img src="<img width="800" height="450" alt="Blender_logo" src="https://github.com/user-attachments/assets/f08bacd9-6e33-413f-bcf1-ba0ceb5b348d" />
-" width="48%" />
+  <img src="C++_logo.jpg" width="48%" />
+  <img src="Blender_logo.jpg" width="48%" />
 </p>
 
 ---
