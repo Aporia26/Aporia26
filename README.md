@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Abhineet Chakraborty!
 
-<!--
-**Aporia26/Aporia26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🎓 **Current Status:** 18-year-old B.Tech-CSE (Semester 1) Student.
+- 💡 **My Journey:** Completely self-teaching myself core computer science and development skills outside of my college lectures.
+- 🎯 **Goal:** Documenting my "learning in public" journey and building real-world projects from scratch.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I am Learning & Building
+- **Languages:** `[e.g., Python / C++ / JavaScript]`
+- **Tools & Tech:** `[e.g., Git, VS Code]`
+- **Current Focus:** `[e.g., Mastering Data Structures / Web Development basics]`
+
+---
+
+### 📈 GitHub Stats
+![Abhineet's GitHub Stats](https://vercel.app)
+![Top Langs](https://vercel.app)
+
+---
+💬 Feel free to explore my repositories as I start uploading my code. Let's connect!
