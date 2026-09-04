@@ -18,9 +18,9 @@
 ### 🔮 The Stack & Focus
 *   **Languages:** `Python` • `C++` • `Java` *(Update these as you learn them)*
 *   **Environment:** `VS Code` • `Windows` • `Git`
-*   **Currently Obsessed With:** Mastering Core Data Structures
-                                 clean system architectures
-                                 low level GPU programming.
+*   **Currently Obsessed With:** -Mastering Core Data Structures
+                                 -clean system architectures
+                                 -low level GPU programming.
 
 ---
 
