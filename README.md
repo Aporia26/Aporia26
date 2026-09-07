@@ -16,11 +16,9 @@
 ---
 
 ### 🔮 The Stack & Focus
-*   **Languages:** `Python` • `C++` • `OpenGL` *(Update these as you learn them)*
+*   **Languages:** `Python` • `C++` • `OpenGL` *//(Update these as you learn them)*
 *   **Environment:** `VS Code` • `Windows` • `Git`
-*   **Currently Obsessed With:** -Mastering Core Data Structures
-                                 -clean system architectures
-                                 -low level GPU programming.
+*   **Currently Obsessed With:** exploring low-level graphics programming, custom 3D engines, and C++ performance optimization.
 
 ---
 
