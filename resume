@@ -1,0 +1,148 @@
+%-------------------------
+% Resume in Latex
+% Author : Abhineet Chakraborty
+% Template License : MIT (Based on Jake's Resume)
+%-------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1.0in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\hdashline\vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdftruetypeunicode=1
+\pdfgothictounicode=1
+
+%-------------------------
+% Custom commands
+\item \begin{tabularx}{\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabularx}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabularx}{\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabularx}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING----------
+\begin{center}
+    \textbf{\Huge \scshape Abhineet Chakraborty} \\ \vspace{1pt}
+    \small +91 XXXXXXXXXX $|$ \href{mailto:youremail@gmail.com}{\underline{youremail@gmail.com}} $|$ 
+    \href{https://github.com/Aporia26}{\underline{github.com/Aporia26}} $|$ 
+    \href{https://artstation.com}{\underline{://artstation.com}}
+\end{center}
+
+
+%---------SUMMARY-----------
+\section{Professional Profile}
+\small{First-year Computer Science student specializing in low-level graphics engineering, custom engine tools development, and asset pipelines. Combining a rigorous baseline in Engineering Mathematics with active framework production in C++ and OpenGL.}
+
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {GUIST, Gauhati University}{Guwahati, Assam, India}
+      {Five-Year Integrated M.Tech in Computer Science and Engineering}{Aug 2026 -- Present}
+      \resumeItemListStart
+        \resumeItem{\textbf{Academic Focus:} Emphasizing pure Engineering Mathematics, including Linear Algebra, Matrix Transformations, and Multivariable Calculus as structural foundations for custom 3D projection pipelines.}
+        \resumeItem{\textbf{Target Metrics:} Actively maintaining an 8.5+ CGPA benchmark across foundational engineering semesters.}
+      \resumeItemListEnd
+  \resumeSubHeadingListEnd
+
+
+%-----------PROJECTS-----------
+\section{Engineering Projects}
+    \resumeSubHeadingListStart
+    
+      \resumeProjectHeading
+          {\textbf{Custom 3D Matrix \& Math Library} $|$ \emph{C++, Git}}{Sep 2026}
+          \resumeItemListStart
+            \resumeItem{Engineered a lightweight, raw C++ mathematical framework implementing 0-based, row-major memory allocation routines for 3x3 matrices.}
+            \resumeItem{Implemented explicit cofactor expansion algorithms for spatial determinant evaluation and deterministic row-by-column matrix multiplications.}
+            \resumeItem{Optimized memory overhead for low-level vector allocations, establishing a foundational mathematical pipeline for standalone local physics transformations.}
+          \resumeItemListEnd
+
+      \resumeProjectHeading
+          {\textbf{Custom Graphics Simulation Framework} $|$ \emph{C++, SFML, CMake}}{Ongoing}
+          \resumeItemListStart
+            \resumeItem{Designing a cross-platform visual execution architecture managed via declarative CMake compilation configurations.}
+            \resumeItem{Constructing finite state machines to isolate individual real-time scene logic configurations, frame rates, and game object lifecycles.}
+            \resumeItem{Formulating programmatic bounding-box containment matrices to resolve real-time vector collision equations smoothly.}
+          \resumeItemListEnd
+          
+      \resumeProjectHeading
+          {\textbf{Asset Pipeline Integration Tracker} $|$ \emph{C++, Blender, Python}}{Ongoing}
+          \resumeItemListStart
+            \resumeItem{Developing deterministic coordinate space translation routines to seamlessly load exported 3D geometric configurations from Blender space to custom runtimes.}
+            \resumeItem{Structuring specialized raw file parsers to directly map object data vertices into sequential native float buffers.}
+            \resumeItem{Eliminating vertex distortion errors by implementing systematic matrix scale-matching passes during the export layer.}
+          \resumeItemListEnd
+
+    \resumeSubHeadingListEnd
+
+%-----------TECHNICAL SKILLS-----------
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Languages}{: C++, C, Python, LaTeX} \\
+     \textbf{Graphics \& Frameworks}{: OpenGL (Learning), SFML, Custom Math Libs} \\
+     \textbf{Tools \& Software}{: Blender, Visual Studio Build Tools, VS Code, Git, GitHub} \\
+     \textbf{Core Competencies}{: Linear Algebra, Coordinate Transformations, Row-Major Matrix Mathematics}
+    }}
+ \end{itemize}
+
+%-------------------------------------------
+\end{document}
