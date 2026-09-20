@@ -1,0 +1,60 @@
+aporia-portfolio.vercel.app
+
+
+
+Your website is 100% live at aporia-portfolio.vercel.app because Vercel hosted the initial version for you.
+You have a ZIP file sitting in your Downloads folder containing all the source code.
+
+Because you haven't linked it to GitHub yet, if you make changes inside that ZIP file on your computer, the live link will NOT update automatically. They are completely disconnected right now.
+Here is the exact manual path to get your changes from your computer to the internet:
+
+	Step 1: Open it in VS CodeUnzip the file you downloaded.O
+pen VS Code, go to File > Open Folder, and select the unzipped directory.
+You can now change texts, drop image assets into the public/ folder, or code your graphics simulations natively with all your keyboard shortcuts and syntax highlighting.
+
+	Step 2: Create a Repository on GitHub.com
+Since you want to manage files manually on the web interface instead of using the local command line:
+Go to GitHub.com in your browser and click New Repository.
+Name it aporia-portfolio and keep it public. 
+On the very next screen, GitHub will give you an option that says "upload an existing file" or "drag and drop your files here.
+"Select all the files inside your unzipped folder on your computer and drag them right into the GitHub website to upload them. Click Commit changes.
+
+	Step 3: Link Vercel to your GitHub Repository
+Now you just need to tell Vercel to watch that repository instead of the temporary v0 instance.
+Go to the Vercel Dashboard and log in (use the same account you used for v0).
+You will see your aporia-portfolio project listed there. Click on it.
+Go to Settings > Git.Under "Connected Repository", select the GitHub repository you just uploaded your files to.
+
+🔄 How you update it from now on:
+	Once that link is made, your workflow becomes incredibly easy:
+	Open your code in VS Code on your PC and write your changes (text, images, simulations).
+	When you are done, go to GitHub.com in your browser.
+	Click Add file > Upload files, drop your updated files right over the old ones, and click Commit.
+	Vercel will instantly catch the update and refresh aporia-portfolio.vercel.app automatically.
+
+Go ahead and unzip that folder and open it up in VS Code first! Let me know when you see the file tree on your screen.
+
+
+
+
+
+🚀 How to Launch Your Local Dev ServerOnce Node.js is installed, you are ready to boot up your site locally. Open your project folder in VS Code, open the integrated terminal (Ctrl + ~), and run these two commands:
+Install the required modules listed in your project file tree:bash
+	npm install
+Use code with caution.
+Spin up the local web-server loop (the web version of compiling and executing a binary):bash
+	npm run dev
+Use code with caution.
+The terminal will print out a local address—usually http://localhost:3000. Ctrl+Click that link, and your portfolio will open up locally in your browser. Any change you make and save in VS Code will instantly refresh on that page in real-time.Go ahead and download Node.js first. 
+
+
+
+
+📄 For New Changes (Inside the Same Project): NO Once you run npm install inside your portfolio folder, those dependencies (React, Next.js, etc.) are downloaded onto your hard drive for good.Your Workflow: You just open VS Code, change your code or text, and type npm run dev to see it.The system is alive and listening—anytime you edit a file and press Ctrl + S, the website updates in your browser in milliseconds without needing to install anything again.
+📁 For a Brand-New Project Website: YES (Only Once per Project)Think of npm install exactly like setting up your SFML or OpenGL library linkages inside a brand new C++ project template.When you spin up a completely separate, brand-new project from v0 or GitHub, that folder won't have the heavy framework files inside it yet (to save disk space while transferring).You will open that new folder, run npm install exactly once to pull down its specific modules, and then you never touch that command again for the rest of that project's lifecycle.
+
+
+
+
+
+
