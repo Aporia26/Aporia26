@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Abhineet Chakraborty!
+# 👋 I'm Abhineet Chakraborty!
 
 <div align="center">
   <img src="https://vercel.app" width="100%" />
 
-  <h3>🌌 Vibe Coder | B.Tech CSE (Sem 1)</h3>
-  <p>Building clean software, learning in the dark, and documenting the engineering journey.</p>
+  <h3>Vibe Coder | B.Tech CSE (Sem 1)</h3>
+  <p>Building clean software, learning by building & making mistakes, and documenting the engineering journey.</p>
 
   <p align="center">
     <img src="https://shields.io" />
@@ -16,7 +16,7 @@
 ---
 
 ### 🔮 The Stack & Focus
-*   **Languages:** `Python` • `C++` • `OpenGL` *//(Update these as you learn them)*
+*   **Languages:** `C#` • `C++` • `OpenGL` • `Vulkan`  
 *   **Environment:** `VS Code` • `Windows` • `Git`
 *   **Currently Obsessed With:** exploring low-level graphics programming, custom 3D engines, and C++ performance optimization.
 
