@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://vercel.app" width="100%" />
 
-  <h3>Vibe Coder | B.Tech CSE (Sem 1)</h3>
+  <h3>Graphics/Engine Programmer | B.Tech CSE (Sem 1)</h3>
   <p>Building clean software, learning by building & making mistakes, and documenting the engineering journey.</p>
 
   <p align="center">
