@@ -27,6 +27,7 @@
   <img src="C++_logo.jpg" width="10%" />
   <img src="Blender_logo.jpg" width="10%" />
   <img src="OpenGL_logo.png" width="10%" />
+  <img src="VK.png" width="10%" />
 </p>
 
 ---
