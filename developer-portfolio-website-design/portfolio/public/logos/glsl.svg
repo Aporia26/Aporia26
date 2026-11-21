@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600">
+  <title>GLSL Shader Language</title>
+  <rect width="1200" height="600" fill="#050505"/>
+  <g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M170 195 C350 62 760 18 1028 92 C1090 109 1105 154 1068 205"
+          stroke-width="9"/>
+    <path d="M130 390 C70 455 85 505 170 520 C340 550 540 488 700 425"
+          stroke-width="9"/>
+    <path d="M155 225 L80 285 L155 345" stroke-width="13"/>
+    <path d="M1045 225 L1120 285 L1045 345" stroke-width="13"/>
+  </g>
+  <text x="600" y="345" fill="#fff" text-anchor="middle"
+        font-family="Arial Black, Arial, Helvetica, sans-serif"
+        font-size="205" font-style="italic" font-weight="900"
+        letter-spacing="-8">GLSL</text>
+  <g fill="#fff">
+    <rect x="205" y="402" width="105" height="8" rx="4"/>
+    <rect x="890" y="402" width="105" height="8" rx="4"/>
+  </g>
+  <text x="600" y="415" fill="#fff" text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="31" font-weight="700" letter-spacing="13">SHADER LANGUAGE</text>
+</svg>
