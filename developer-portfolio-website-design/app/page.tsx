@@ -10,7 +10,7 @@ const SECTIONS = [
     href: "/showcase",
     index: "01",
     title: "3D Generalist",
-    blurb: "A fluid gallery of Sketchfab-ready work — characters, environments, hard-surface and sims.",
+    blurb: "A fluid gallery of game-ready work — Characters, World-Environments, Hard-Surfaces, Cinematography and Ideas/Thoughts.",
     accent: "text-neon-orange",
     offset: "md:mt-0",
   },
@@ -18,7 +18,7 @@ const SECTIONS = [
     href: "/simulations",
     index: "02",
     title: "Simulations",
-    blurb: "Running tech demos beside the code and the math that drives them.",
+    blurb: "Running Simulation demos beside the Code and the Mathematics that drives them.",
     accent: "text-teal",
     offset: "md:mt-16",
   },
@@ -26,7 +26,7 @@ const SECTIONS = [
     href: "/engines",
     index: "03",
     title: "Engines & Shaders",
-    blurb: "Custom engine architecture and shader breakdowns, laid out sharp.",
+    blurb: "Custom Engine Architecture and Shader Breakdowns & Post-Processing Renders.",
     accent: "text-crimson",
     offset: "md:mt-8",
   },
@@ -63,8 +63,7 @@ export default function LandingPage() {
           </h1>
 
           <p className="mt-6 max-w-xl text-pretty text-sm leading-relaxed text-muted-foreground md:text-base">
-            {SITE.tagline} Real-time rendering, procedural systems, and the low-level
-            code that makes pixels move.
+            {SITE.tagline}  <br />  <br /> _____________________ <br /> ~|| A P O R I A ||~ <br /> _____________________
           </p>
 
           <div className="mt-8 flex flex-col gap-6 border-t border-border/60 pt-6 md:flex-row md:items-center md:justify-between">
@@ -134,7 +133,7 @@ function SiteFooter() {
           ))}
         </nav>
         <span className="font-mono text-[10px] uppercase tracking-[0.2em] text-muted-foreground">
-          © {new Date().getFullYear()} — built in the dark
+          © {new Date().getFullYear()} — Built with Passion
         </span>
       </div>
     </footer>

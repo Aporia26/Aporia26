@@ -4,7 +4,7 @@ import { MasonryGallery, type Piece } from "@/components/masonry-gallery"
 
 export const metadata: Metadata = {
   title: "3D Generalist — Showcase",
-  description: "A fluid gallery of 3D work: characters, environments, hard-surface, and simulation stills.",
+  description: "A fluid gallery of game-ready work — Characters, World-Environments, Hard-Surfaces, Cinematography and Ideas/Thoughts.",
 }
 
 const PIECES: Piece[] = [

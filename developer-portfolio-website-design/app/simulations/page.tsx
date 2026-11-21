@@ -7,8 +7,8 @@ import { BoidsDemo } from "@/components/demos/boids-demo"
 import { ClothDemo } from "@/components/demos/cloth-demo"
 
 export const metadata: Metadata = {
-  title: "Simulations — Physics & Code",
-  description: "Live real-time tech demos paired with the code and the math that drives them.",
+  title: "Simulations — Physics & Mathematics",
+  description: "Live real-time Running Simulation demos beside the Code and the Mathematics that drives them.",
 }
 
 const GRAVITY_CODE = `// semi-implicit Euler, softened N-body attraction

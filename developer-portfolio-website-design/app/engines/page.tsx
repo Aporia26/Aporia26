@@ -6,7 +6,7 @@ import { FRAG_SOURCE } from "@/lib/shaders"
 
 export const metadata: Metadata = {
   title: "Engines & Shaders — Technical",
-  description: "Custom engine architecture and shader breakdowns.",
+  description: "Custom Engine Architecture and Shader Breakdowns & Post-Processing Renders.",
 }
 
 const LAYERS: { tier: string; color: string; blocks: string[] }[] = [
