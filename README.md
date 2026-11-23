@@ -34,6 +34,6 @@
 
 <div align="center">
   <p><i>"Turning caffeine into clean systems."</i></p>
-  <sub>Let's build the future. -> [Personal Website](https://abhineet-portfolio-site.netlify.app/).</sub>
+  Let's build the future -> [Personal Website](https://abhineet-portfolio-site.netlify.app/) 
 </div>
 
